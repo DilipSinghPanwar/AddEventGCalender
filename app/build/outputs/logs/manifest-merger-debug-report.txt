@@ -1,0 +1,87 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\github\AddEventGCalender\app\src\main\AndroidManifest.xml:2:1-26:12
+	package
+		ADDED from D:\github\AddEventGCalender\app\src\main\AndroidManifest.xml:3:5-30
+		INJECTED from D:\github\AddEventGCalender\app\src\main\AndroidManifest.xml
+		INJECTED from D:\github\AddEventGCalender\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\github\AddEventGCalender\app\src\main\AndroidManifest.xml
+		INJECTED from D:\github\AddEventGCalender\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\github\AddEventGCalender\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from D:\github\AddEventGCalender\app\src\main\AndroidManifest.xml
+		INJECTED from D:\github\AddEventGCalender\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.WRITE_CALENDAR
+ADDED from D:\github\AddEventGCalender\app\src\main\AndroidManifest.xml:5:5-73
+	android:name
+		ADDED from D:\github\AddEventGCalender\app\src\main\AndroidManifest.xml:5:22-70
+uses-permission#android.permission.READ_CALENDAR
+ADDED from D:\github\AddEventGCalender\app\src\main\AndroidManifest.xml:6:5-72
+	android:name
+		ADDED from D:\github\AddEventGCalender\app\src\main\AndroidManifest.xml:6:22-69
+application
+ADDED from D:\github\AddEventGCalender\app\src\main\AndroidManifest.xml:9:5-23:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\ADMIN\.android\build-cache\ff8c310af34b792d6b386b6b6b3a602758f31532\output\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\ADMIN\.android\build-cache\00323536b7b6fadb9d24de560e02b3d34d9f304c\output\AndroidManifest.xml:22:5-23:19
+	android:label
+		ADDED from D:\github\AddEventGCalender\app\src\main\AndroidManifest.xml:12:9-41
+	android:supportsRtl
+		ADDED from D:\github\AddEventGCalender\app\src\main\AndroidManifest.xml:13:9-35
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\ADMIN\.android\build-cache\ff8c310af34b792d6b386b6b6b3a602758f31532\output\AndroidManifest.xml:22:18-91
+	android:allowBackup
+		ADDED from D:\github\AddEventGCalender\app\src\main\AndroidManifest.xml:10:9-35
+	android:icon
+		ADDED from D:\github\AddEventGCalender\app\src\main\AndroidManifest.xml:11:9-43
+	android:theme
+		ADDED from D:\github\AddEventGCalender\app\src\main\AndroidManifest.xml:14:9-40
+activity#com.androidevs.MainActivity
+ADDED from D:\github\AddEventGCalender\app\src\main\AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from D:\github\AddEventGCalender\app\src\main\AndroidManifest.xml:15:19-61
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\github\AddEventGCalender\app\src\main\AndroidManifest.xml:16:13-19:29
+action#android.intent.action.MAIN
+ADDED from D:\github\AddEventGCalender\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from D:\github\AddEventGCalender\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\github\AddEventGCalender\app\src\main\AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from D:\github\AddEventGCalender\app\src\main\AndroidManifest.xml:18:27-74
+uses-sdk
+INJECTED from D:\github\AddEventGCalender\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\ADMIN\.android\build-cache\583ea47d98f542da3aacfe73643c4a3474651996\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\ADMIN\.android\build-cache\1dcff4cfd32f3847ba9555c2b76509c9b3f8734e\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\ADMIN\.android\build-cache\6ed6dd35e441c6ff85dbe7159dd86ffcfbf95859\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\ADMIN\.android\build-cache\acee2bac023063f90a61b373f055648d5fd0411a\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\ADMIN\.android\build-cache\32eadbd2aae628134a4c29c8aba6483be2c023bb\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\ADMIN\.android\build-cache\178a0d4d7ea3b294fe4b0d5fdcda908097e151bf\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\ADMIN\.android\build-cache\0bccc0ce08fd56492db8851184d7c835f591af0e\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\ADMIN\.android\build-cache\bc0b1825f6279ec6de7f52feee684a3c7c63f557\output\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\ADMIN\.android\build-cache\d58b7d5e5d0ff6ae24ed50332072ef1489a4d026\output\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\ADMIN\.android\build-cache\119301a103f251e49c929505d1c0f7d26e84ce43\output\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\ADMIN\.android\build-cache\1a32ea547c57840fa49d544b87f958b610567669\output\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\ADMIN\.android\build-cache\ac7167fe138591b2c2225e979fcff47fb5db322e\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\ADMIN\.android\build-cache\0b61a36159b081e00a7860d13ec37354d6e41981\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\ADMIN\.android\build-cache\df40599841628b40508cfacd212f6ff9aced57c5\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\ADMIN\.android\build-cache\a86789e443c80b9d9e288ccc05f49d80453f8a6b\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\ADMIN\.android\build-cache\c83d2dc9df540a7553f505fe8564872865733bed\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\ADMIN\.android\build-cache\191af0fe7173ab373f5e29ef31d66dc679207bd5\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\ADMIN\.android\build-cache\6b602d1e21f8c3a7660d9f032ccedfac150b3cce\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\ADMIN\.android\build-cache\df74a6d092c221274a0c3c9651abd0627a2c590f\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\ADMIN\.android\build-cache\ca9e3c6ede7aafb2fbdf04b92c9d2b4b80fa3281\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\ADMIN\.android\build-cache\afd0bbf1b591367ee00a855f772234e74b9a37e7\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\ADMIN\.android\build-cache\4507fe3cde3a2a2d598efe56b2b7537b525bd510\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\ADMIN\.android\build-cache\ff8c310af34b792d6b386b6b6b3a602758f31532\output\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\ADMIN\.android\build-cache\fbf923a01524334113f9d238dc67cf6c72c0055c\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\ADMIN\.android\build-cache\00323536b7b6fadb9d24de560e02b3d34d9f304c\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\ADMIN\.android\build-cache\7aedcece7c83eb8e6f162960b6e8554d822acd31\output\AndroidManifest.xml:20:5-44
+	android:targetSdkVersion
+		INJECTED from D:\github\AddEventGCalender\app\src\main\AndroidManifest.xml
+		INJECTED from D:\github\AddEventGCalender\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\github\AddEventGCalender\app\src\main\AndroidManifest.xml
+		INJECTED from D:\github\AddEventGCalender\app\src\main\AndroidManifest.xml

@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\ADMIN\.android\build-cache\acee2bac023063f90a61b373f055648d5fd0411a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ba4c894fd0a3d36e8f06f4947ab639140e668088">
+        <dex dex="D:\github\AddEventGCalender\app\build\intermediates\pre-dexed\debug\classes_344379d7c26d5ad15ce80eb5d8b975597f6b2f57.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ADMIN\.android\build-cache\c83d2dc9df540a7553f505fe8564872865733bed\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a6d4c3181151ffbcd67897e94c688f6c200c5bec">
+        <dex dex="D:\github\AddEventGCalender\app\build\intermediates\pre-dexed\debug\classes_d729ff0e313c8bfd1d4a436203604c5dca727531.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ADMIN\.android\build-cache\6ed6dd35e441c6ff85dbe7159dd86ffcfbf95859\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f77c6cfaee7ee7c8844d5340e47a38c3fdea7060">
+        <dex dex="D:\github\AddEventGCalender\app\build\intermediates\pre-dexed\debug\classes_2fb56cdb260dec60dd5850b98a0bb3e94353697b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ADMIN\.android\build-cache\df40599841628b40508cfacd212f6ff9aced57c5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="376a25a3bdce5133262368e85d430aae5bb80c28">
+        <dex dex="D:\github\AddEventGCalender\app\build\intermediates\pre-dexed\debug\classes_fdf547486f04daa03c3754627853713668599ac0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ADMIN\.android\build-cache\1dcff4cfd32f3847ba9555c2b76509c9b3f8734e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5b049b5525643f62ebe162013dae975c7e74dcc5">
+        <dex dex="D:\github\AddEventGCalender\app\build\intermediates\pre-dexed\debug\classes_1bac0b6a4b34395f4237a344c563fc8e59fe98db.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ADMIN\.android\build-cache\fbf923a01524334113f9d238dc67cf6c72c0055c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a69067467c7e4d5c810ea19ee43cbfab00a292b4">
+        <dex dex="D:\github\AddEventGCalender\app\build\intermediates\pre-dexed\debug\classes_6fdcd84a966997198df1df5a2eae0cc2a2c8b957.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ADMIN\.android\build-cache\7aedcece7c83eb8e6f162960b6e8554d822acd31\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b9aff7eec7a0b091e460e44b8bb0bf64cadc0844">
+        <dex dex="D:\github\AddEventGCalender\app\build\intermediates\pre-dexed\debug\classes_dfbad1ed83a2b08a088fb80a2f009f68440f7f75.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ADMIN\.android\build-cache\1a32ea547c57840fa49d544b87f958b610567669\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="afb9ac89f722ac83466f1bb5f2135010b7f05f32">
+        <dex dex="D:\github\AddEventGCalender\app\build\intermediates\pre-dexed\debug\classes_400b0f80df14515c45778d6f6bdab139727367c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ADMIN\.gradle\caches\modules-2\files-2.1\com.android.support\collections\28.0.0\c1bcdade4d3cc2836130424a3f3e4182c666a745\collections-28.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c1bcdade4d3cc2836130424a3f3e4182c666a745">
+        <dex dex="D:\github\AddEventGCalender\app\build\intermediates\pre-dexed\debug\collections-28.0.0_77faf39837574300b22367809303b21e6bec7218.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ADMIN\.android\build-cache\d58b7d5e5d0ff6ae24ed50332072ef1489a4d026\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9335f203759bfcda4b6ea729dddcf06c07150d3f">
+        <dex dex="D:\github\AddEventGCalender\app\build\intermediates\pre-dexed\debug\classes_3fb8afc8e4131d874e92457d5591fa2590302fe6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ADMIN\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.1.1\e55b70d1f5620db124b3e85a7f4bdc7bd48d9f95\common-1.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e55b70d1f5620db124b3e85a7f4bdc7bd48d9f95">
+        <dex dex="D:\github\AddEventGCalender\app\build\intermediates\pre-dexed\debug\common-1.1.1_e784f55e0086fca03f7e148df063d6f80bf3922a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ADMIN\.android\build-cache\bc0b1825f6279ec6de7f52feee684a3c7c63f557\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="49b8af59d5819c80792707bdda93a5c9a917e24c">
+        <dex dex="D:\github\AddEventGCalender\app\build\intermediates\pre-dexed\debug\classes_5a0ea785decec85959c36ab15f462be5538529f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ADMIN\.android\build-cache\4507fe3cde3a2a2d598efe56b2b7537b525bd510\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8510837b7e70ee5f12cf2a20dd0a1b3d23a0cdeb">
+        <dex dex="D:\github\AddEventGCalender\app\build\intermediates\pre-dexed\debug\classes_b6c2c6fdca93f2ed387a3bcd4dc76ee5f1d5f5a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ADMIN\.android\build-cache\6b602d1e21f8c3a7660d9f032ccedfac150b3cce\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="41b8c7e99024d4288d7dfc709bb72fdaa5fdc32f">
+        <dex dex="D:\github\AddEventGCalender\app\build\intermediates\pre-dexed\debug\classes_5c507fadb916744cc191f17efc2064db6fc18fb9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ADMIN\.android\build-cache\191af0fe7173ab373f5e29ef31d66dc679207bd5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fad505737146925636e28753e26523c3a8a03e48">
+        <dex dex="D:\github\AddEventGCalender\app\build\intermediates\pre-dexed\debug\classes_e726e6bb3b8f4e84e819a1178ee919952fe59f7e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ADMIN\.android\build-cache\ac7167fe138591b2c2225e979fcff47fb5db322e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="de467de1baba33a922246561f87c0a910206d1ff">
+        <dex dex="D:\github\AddEventGCalender\app\build\intermediates\pre-dexed\debug\classes_29bb606120c426381bf58d68dc206fa0777f61cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ADMIN\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\28.0.0\ed73f5337a002d1fd24339d5fb08c2c9d9ca60d8\support-annotations-28.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ed73f5337a002d1fd24339d5fb08c2c9d9ca60d8">
+        <dex dex="D:\github\AddEventGCalender\app\build\intermediates\pre-dexed\debug\support-annotations-28.0.0_dd3a3bec47831de64ec960f995966410555bc506.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ADMIN\.android\build-cache\583ea47d98f542da3aacfe73643c4a3474651996\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="234e706c7aea09f97738c7830d144d50d240079e">
+        <dex dex="D:\github\AddEventGCalender\app\build\intermediates\pre-dexed\debug\classes_f2c9dffc30f8d78dfe10387d22fb7e4fc696fc96.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ADMIN\.android\build-cache\ca9e3c6ede7aafb2fbdf04b92c9d2b4b80fa3281\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="19e63f5c3afd0a4379bfb830816bb8a9661aba75">
+        <dex dex="D:\github\AddEventGCalender\app\build\intermediates\pre-dexed\debug\classes_41ec958dfd29260e70f8668b58d4abeeb1d6cd16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ADMIN\.android\build-cache\ff8c310af34b792d6b386b6b6b3a602758f31532\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ddfc0d219f43bf3c1e357a55284cbd1000e461bf">
+        <dex dex="D:\github\AddEventGCalender\app\build\intermediates\pre-dexed\debug\classes_8553885b5d27ad123d95e2b3ae63d08a6f74ca2f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ADMIN\.android\build-cache\119301a103f251e49c929505d1c0f7d26e84ce43\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b1173d9f45ae18f2e0dc8ec42d15fa5b95c391d1">
+        <dex dex="D:\github\AddEventGCalender\app\build\intermediates\pre-dexed\debug\classes_5987a4c01ca71b61b8e8c3288beaca4b8d6cc5cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ADMIN\.android\build-cache\0bccc0ce08fd56492db8851184d7c835f591af0e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e9b03dd36d3c106574e2cdeb8edd543bd5e51d0e">
+        <dex dex="D:\github\AddEventGCalender\app\build\intermediates\pre-dexed\debug\classes_58220e6afce790b6ddff5fb9022bdfe53f276bc4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ADMIN\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.1.1\207a6efae6a3555e326de41f76bdadd9a239cbce\common-1.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="207a6efae6a3555e326de41f76bdadd9a239cbce">
+        <dex dex="D:\github\AddEventGCalender\app\build\intermediates\pre-dexed\debug\common-1.1.1_103cf96436d2eb119bf22df745ac1d45cf70a0e0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ADMIN\.android\build-cache\0b61a36159b081e00a7860d13ec37354d6e41981\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7b15ada2209f82b0249f331cb7ec70394dc2e828">
+        <dex dex="D:\github\AddEventGCalender\app\build\intermediates\pre-dexed\debug\classes_d918ace4691f3b7ea140a276ea6fa6aa2c3765a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ADMIN\.android\build-cache\32eadbd2aae628134a4c29c8aba6483be2c023bb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b05ce31f5d87a7f16cdbdbc5e3a7cf2190bf0118">
+        <dex dex="D:\github\AddEventGCalender\app\build\intermediates\pre-dexed\debug\classes_b6d1edfea254f9d6e5f7b341b19c56a0267b1daa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ADMIN\.android\build-cache\178a0d4d7ea3b294fe4b0d5fdcda908097e151bf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b99e6cdcb85894164e1a06145a5f6b78e3cb7270">
+        <dex dex="D:\github\AddEventGCalender\app\build\intermediates\pre-dexed\debug\classes_f02f0b18cb32b632763b5bf9b708a3f54617141a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ADMIN\.android\build-cache\00323536b7b6fadb9d24de560e02b3d34d9f304c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2e85417e7990657be8fe07d63fd5278d82eb960e">
+        <dex dex="D:\github\AddEventGCalender\app\build\intermediates\pre-dexed\debug\classes_a21b86f78b20bc44ffae1fa3e19be6dc3a7c161a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ADMIN\.android\build-cache\afd0bbf1b591367ee00a855f772234e74b9a37e7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="70bf65523dc3db43f6c3749931976585a8f4dd20">
+        <dex dex="D:\github\AddEventGCalender\app\build\intermediates\pre-dexed\debug\classes_637c2163bdbfc6a7033627c47d0f4d57dfb188ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ADMIN\.android\build-cache\a86789e443c80b9d9e288ccc05f49d80453f8a6b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="be31b531309a9196873ba4ac96ea9484ca0ecad6">
+        <dex dex="D:\github\AddEventGCalender\app\build\intermediates\pre-dexed\debug\classes_4078f51a4e670a67c62a62f5268011c1028a7843.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ADMIN\.android\build-cache\df74a6d092c221274a0c3c9651abd0627a2c590f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="925ec89d545e33030131b9470db85e701a8c61a4">
+        <dex dex="D:\github\AddEventGCalender\app\build\intermediates\pre-dexed\debug\classes_354721fbd404463cc18cb32c9a1e2067e3f72684.jar" />
+    </item>
+
+</items>
